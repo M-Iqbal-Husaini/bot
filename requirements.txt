@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+tensorflow
+keras
+numpy
+sastrawi
+pandas # Opsional, jika Anda masih menggunakannya
